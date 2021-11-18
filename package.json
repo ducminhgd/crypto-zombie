@@ -1,0 +1,27 @@
+{
+  "name": "crypto-zombie",
+  "version": "1.0.0",
+  "description": "Sample code of tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ducminhgd/crypto-zombie.git"
+  },
+  "keywords": [
+    "blockchain",
+    "solidity",
+    "crypto"
+  ],
+  "author": "Giã Dương Đức Minh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ducminhgd/crypto-zombie/issues"
+  },
+  "homepage": "https://github.com/ducminhgd/crypto-zombie#readme",
+  "devDependencies": {
+    "hardhat": "^2.6.8"
+  }
+}
